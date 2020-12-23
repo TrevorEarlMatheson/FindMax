@@ -11,3 +11,15 @@ obj/Debug/netcoreapp3.1/FindMax.AssemblyInfo.cs
 obj/Debug/netcoreapp3.1/FindMax.AssemblyInfoInputs.cache
 obj/Debug/netcoreapp3.1/FindMax.assets.cache
 obj/Debug/netcoreapp3.1/FindMax.csprojAssemblyReference.cache
+bin/Debug/netcoreapp3.1/FindMax
+bin/Debug/netcoreapp3.1/FindMax.deps.json
+bin/Debug/netcoreapp3.1/FindMax.dll
+bin/Debug/netcoreapp3.1/FindMax.pdb
+bin/Debug/netcoreapp3.1/FindMax.runtimeconfig.dev.json
+bin/Debug/netcoreapp3.1/FindMax.runtimeconfig.json
+obj/Debug/netcoreapp3.1/FindMax
+obj/Debug/netcoreapp3.1/FindMax.csproj.CoreCompileInputs.cache
+obj/Debug/netcoreapp3.1/FindMax.csproj.FileListAbsolute.txt
+obj/Debug/netcoreapp3.1/FindMax.dll
+obj/Debug/netcoreapp3.1/FindMax.genruntimeconfig.cache
+obj/Debug/netcoreapp3.1/FindMax.pdb
