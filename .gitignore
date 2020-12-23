@@ -1,0 +1,13 @@
+FindMax.csproj
+.vscode/launch.json
+.vscode/tasks.json
+obj/FindMax.csproj.nuget.dgspec.json
+obj/FindMax.csproj.nuget.g.props
+obj/FindMax.csproj.nuget.g.targets
+obj/project.assets.json
+obj/project.nuget.cache
+obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+obj/Debug/netcoreapp3.1/FindMax.AssemblyInfo.cs
+obj/Debug/netcoreapp3.1/FindMax.AssemblyInfoInputs.cache
+obj/Debug/netcoreapp3.1/FindMax.assets.cache
+obj/Debug/netcoreapp3.1/FindMax.csprojAssemblyReference.cache
